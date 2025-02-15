@@ -4,8 +4,8 @@
 ## Informações:
 
 Arquivos:
-    `customer_churn_telecom_services.csv`: Arquivo do dataset
-    `projet_rn.ipynb`: Arquivo do código executado para o projeto 
+- `customer_churn_telecom_services.csv`: Arquivo do dataset
+- `projet_rn.ipynb`: Arquivo do código executado para o projeto 
 
 ## Dicionário do Dataset:
 
