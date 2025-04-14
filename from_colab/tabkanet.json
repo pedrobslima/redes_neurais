@@ -1,0 +1,1 @@
+{"activation": "relu", "attn_dropout": 0.6794862967378213, "ffn_dropout": 0.25104533746088703, "mlp_num_layers": 2, "mlp_hidden_layers1": 32, "mlp_hidden_layers2": 16, "nhead": 4, "opt-lr": 0.01, "opt-weight_decay": 0.001, "num_layers": 2, "embedding_dim": 32, "dim_feedforward": 128}

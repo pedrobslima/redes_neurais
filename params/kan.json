@@ -1,0 +1,1 @@
+{"hidden_neurons1": 47, "hidden_neurons2": 9, "grid": 6, "k": 5, "lr": 0.022790497624619294, "steps": 60, "base_fun": "identity", "opt": "Adam"}

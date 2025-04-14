@@ -1,0 +1,1 @@
+{"criterion": "gini", "max_depth": 20, "min_samples_leaf": 16, "min_samples_split": 25, "n_estimators": 61, "random_state": 331743828}

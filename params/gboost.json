@@ -1,0 +1,1 @@
+{"n_estimators": 63, "criterion": "friedman_mse", "max_depth": 3, "min_samples_split": 12, "loss": "exponential", "learning_rate": 0.06838455473431729}

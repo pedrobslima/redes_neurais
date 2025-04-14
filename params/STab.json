@@ -1,0 +1,1 @@
+{"attn_dropout": 0.5855118229968217, "ff_dropout": 0.09787614273955834, "cases": 8, "dim": 12, "depth": 2, "heads": 7, "dim_head": 56, "opt-lr": 0.0008187894167880098, "opt-weight_decay": 0.0001}

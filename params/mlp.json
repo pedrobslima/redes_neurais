@@ -1,0 +1,1 @@
+{"hidden_layers_sizes": 200, "solver": "adam", "learning_rate_init": 0.005, "alpha": 0.013405638133780113, "activation": "tanh"}
